@@ -1,0 +1,119 @@
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+max-width: 1100px;
+min-width: 400px;
+box-shadow: 1px outset #000000;
+  height: 80px;
+  padding-top: 20px;
+
+}
+
+#divhead {
+  margin-top: 10px;
+
+}
+
+.menuhamberger {
+  width: 26px;
+  height: 3.02px;
+  position: relative;
+  background: black;
+  border-radius: 3px;
+  margin: 5px;
+
+}
+
+.menuhamberger1 {
+  width: 15px;
+  height: 3.02px;
+  position: relative;
+  background: black;
+  border-radius: 3px;
+  margin: 5px;
+}
+
+#logohamrah {
+
+  align-self: center;
+}
+
+img {
+  height: 15px;
+  width: 15px;
+  margin-top: -5px;
+}
+
+#logoham {
+  height: 45px;
+  width: 45px;
+  box-shadow: #FFB335;
+}
+
+#header1 {
+  width: 390px;
+}
+
+#circelmassge {
+  background-color: aquamarine;
+  border-radius: 20PX;
+  height: 20px;
+  width: 20px;
+
+
+}
+
+.muncircel {
+  text-align: center;
+  font-size: small;
+  margin-right: -11px;
+  margin-top: -31px;
+  background-color: aquamarine;
+  border-radius: 20PX;
+  height: 20px;
+  width: 20px;
+  position: fixed;
+
+
+}
+
+
+
+.offcanvas {
+  background-color: aquamarine;
+  height: 80%;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 10px;
+  /* transform: translateX(-110%); */
+  position: relative;
+}
+
+.offcanvas.hidden {
+  /* transform: translateX(-10%); */
+  display: none;
+  
+  /* جابجایی به بیرون از صفحه */
+}
+body.hhi{
+  opacity: 50%;
+  background-color: black;
+}
+
+
+#ham {
+  
+  border: none;
+
+  width: fit-content;
+  height: fit-content;
+}
+.header{
+  display: flex;
+  background-color: #fff;
+  max-width: 1100px;
+  min-width: 380px;
+  
+}

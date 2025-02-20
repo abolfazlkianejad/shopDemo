@@ -1,0 +1,30 @@
+.divee{
+    width: 380px;
+    height: max-content;
+    background-color: #ffff;
+    border-radius: 25px;
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
+#row1{
+    text-align: center;
+}
+#col2{
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+    margin-top: 10px;
+}
+#img1{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+#nam{
+    text-align: start;
+}
+#nam1{
+    text-align: end;
+}

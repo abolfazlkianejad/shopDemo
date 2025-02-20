@@ -1,0 +1,20 @@
+.diveemploy{
+    background-color: rgb(28, 233, 233);
+    border-radius: 10px;
+    width: 380px;
+    height: 100%;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom:20px;
+    text-align: center;
+}
+h3{
+    direction: rtl;
+    margin: 15px;
+    text-align: start;
+    margin-right: 43px;
+}
+.Body{
+    margin-bottom: 10px;
+}
+

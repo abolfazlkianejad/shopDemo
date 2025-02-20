@@ -1,0 +1,126 @@
+.div1 {
+    position: absolute;
+    top: -11.53%;
+    left: 0%;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+.m {
+    position: absolute;
+    top: 37.89%;
+    left: 0%;
+    font-size: 23.92px;
+    line-height: 28.71px;
+    font-family: var(--font-iransansxfanum);
+}
+.div {
+    position: absolute;
+    width: 22.33%;
+    top: calc(50% - 20.71px);
+    right: 73.22%;
+    left: 4.44%;
+    height: 60.7px;
+    font-size: 20px;
+}
+.spanbg-successcircleme-0ms {
+    position: absolute;
+    top: calc(50% - 9.5px);
+    right: 0.04px;
+    border-radius: 100%;
+    background-color: #5bcfc5;
+    width: 19px;
+    height: 19px;
+}
+.lijustify-content-end {
+    position: absolute;
+    height: 29.17%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 70.83%;
+    left: 0%;
+}
+.div2 {
+    position: absolute;
+    top: -6.62%;
+    left: -25.67%;
+    line-height: 21px;
+}
+.spanbg-dangercircleme-0ms- {
+    position: absolute;
+    top: calc(50% - 9.5px);
+    right: 0.04px;
+    border-radius:100%;
+    background-color: #ffb335;
+    width: 19px;
+    height: 19px;
+}
+.lijustify-content-end1 {
+    position: absolute;
+    height: 29.17%;
+    width: 100%;
+    top: 50%;
+    right: 0%;
+    bottom: 20.83%;
+    left: 0%;
+}
+.ulcard-list {
+    position: absolute;
+    width: 22.56%;
+    top: calc(50% - 26.35px);
+    right: 4.43%;
+    left: 73.01%;
+    height: 72px;
+}
+.div3 {
+    position: absolute;
+    height: 22.87%;
+    width: 21.94%;
+    top: 22.4%;
+    left: 65.28%;
+    line-height: 21px;
+    display: inline-block;
+}
+.divcard-headerpb-0border-0 {
+    position: absolute;
+    height: 24.67%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 75.33%;
+    left: 0%;
+    border-radius: var(--br-2xs) var(--br-2xs) 0px 0px;
+}
+.svgjssvg1528 {
+    position: absolute;
+    top: 108px;
+    left: calc(50% - 164px);
+    width: 328px;
+    height: 250px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-smi);
+    color: var(--color-darkslategray);
+}
+#imgch{
+    width: 300px;
+    height: max-content;
+}
+.divcard {
+    width: 380px;;
+    position: relative;
+    box-shadow: 0px 5px 5px rgba(82, 63, 105, 0.05);
+    border-radius: 24px;
+    background-color: #fff;
+    height: 375.8px;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-iransansx);
+}
+
+
+
+
+
+  
